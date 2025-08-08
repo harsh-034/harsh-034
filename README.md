@@ -1,6 +1,13 @@
 # 💫 About Me:
 👋 Hi, I'm Harsh Gupta!<br>🎓 Bachelor's Degree in Information Technology <br>💻Software Developer | Java | C++ | Web Dev | DSA | System Design<br>🚀 Aspiring Software Developer | Passionate about Problem-Solving & AI<br>🔨 Projects: College Management System | Personal Portfolio<br>🏆 Avishkar Research Convention Finalist | Certified by Infosys<br><br>📫 Let's connect: LinkedIn | GitHub<br><br>
 
+###### Glad to see you here :heart:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasvee&label=Views&color=blue&style=plastic" alt="manasvee" /> </p>
+
+<br/>
+<br/>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harah-gupta/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/HarshGupta3034) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshgupta00034@gmail.com) 
