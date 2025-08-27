@@ -22,6 +22,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harsh-034&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=harsh-034&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
 
 
 
